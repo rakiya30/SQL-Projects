@@ -184,7 +184,9 @@ ORDER BY SUM(quantity) DESC
 
 
 ALTER TABLE super_store.dbo.SuperStoreOrders
+
 ALTER COLUMN product_name nvarchar(max)
+
 GO
 
 
