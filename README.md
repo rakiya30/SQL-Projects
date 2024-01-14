@@ -1,4 +1,4 @@
-### SQL-Projects
+# SQL-Projects
 Super Store Sales Analysis
 
 -- Overview of Superstore--
@@ -45,6 +45,7 @@ ORDER BY
 SUM(sales) DESC
 
 -- Sales over Year--
+
 SELECT
 
 year,
