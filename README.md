@@ -1,5 +1,5 @@
-# SQL-Projects
-Super Store Sales Analysis
+## SQL-Project
+# Super Store Sales Analysis
 
 -- Overview of Superstore--
 
