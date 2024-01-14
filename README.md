@@ -3,6 +3,7 @@
 
 -- Overview of Superstore--
 
+![overiew of sales analysis](https://github.com/rakiya30/SQL-Projects/assets/154539987/86c6d3b7-52b7-4197-b3d8-63a213cc6233)
 
 -- Sales Performance Analysis--
 
