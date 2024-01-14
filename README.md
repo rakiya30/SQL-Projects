@@ -4,13 +4,20 @@ Super Store Sales Analysis
 -- Overview of Superstore--
 
 SELECT COUNT (order_id) AS Total_orders,
+
 COUNT(DISTINCT country) AS Total_countries,
+
 COUNT(DISTINCT category) AS Total_categories,
+
 COUNT(DISTINCT year) AS Total_years,
 SUM(sales) AS Total_sales, 
+
 SUM(quantity) AS Total_quantity_sold,
+
 AVG(profit) AS Average_profit,
+
 AVG(discount) AS Average_discount
+
 FROM super_store.dbo.SuperStoreOrders
 
 -- Sales Performance Analysis--
